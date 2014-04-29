@@ -1,6 +1,6 @@
 title:  RESTful APIs in the Real World Episode 2
-price:  00
-length: 00:00
+price:  0
+length: ~
 summary: |
     Making RESTful APIs is hard, really hard. There are a lot of concepts
     to know - resources, representations, HTTP methods, status codes, etc.
