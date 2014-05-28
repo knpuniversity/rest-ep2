@@ -8,7 +8,7 @@ summary: |
     In the upcoming episode 2 of this series, we'll cover the hard stuff,
     by continuing our real tutorial:
 
-    * Hypermedia and HATOEAS
+    * Hypermedia and HATEOAS
     * Documenting your API
     * Content-Type negotiation
     * Pagination and filtering
